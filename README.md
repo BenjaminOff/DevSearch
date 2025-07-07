@@ -13,7 +13,7 @@ DevSearch est un moteur de recherche bilingue (anglais et français) construit a
 1. Clonez le dépôt
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/BenjaminOff/DevSearch>
 cd DevSearch
 ```
 
